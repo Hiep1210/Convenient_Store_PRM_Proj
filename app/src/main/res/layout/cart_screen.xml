@@ -8,9 +8,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Cart Fragment"
-        android:textSize="20sp"
-        android:textColor="@color/black"/>
+        android:text="You have 5 items in cart"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/btn_purchase"
